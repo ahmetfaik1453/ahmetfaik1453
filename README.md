@@ -23,6 +23,9 @@
 
 ⚡ **Fun fact:** I enjoy experimenting with different trading strategies and continuously seek to learn and adapt to the ever-changing financial markets.
 
+## 🎉 Fun Fact GIF
+![Fintech Fun Fact](https://media.giphy.com/media/xUOwG91nYClYpOnQso/giphy.gif)
+
 ## 🛠️ Skills
 
 ### Programming & Development
