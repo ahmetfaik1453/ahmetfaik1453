@@ -61,6 +61,16 @@ Exploring machine learning applications in trading, including predictive models 
 ### [Exploring Individual Variation in Turkish Heritage Speakers](https://github.com/FredericBlum/exploring-individual-variation-in-turkish-heritage-speakers-complex-linguistic-productions)
 A collaborative project analyzing linguistic data, reflecting my interest in data analysis and collaboration.
 
+## 🛡️ Badges
+
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Intermediate-green)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Tableau-blueviolet)
+![Algorithms](https://img.shields.io/badge/Algorithms-Expert-orange)
+![HTML/CSS](https://img.shields.io/badge/HTML%20%26%20CSS-Intermediate-lightgrey)
+![SQL](https://img.shields.io/badge/SQL-Expert-orange)
+
 ---
 
 ✨ **Feel free to explore my projects!** Don't hesitate to reach out for collaboration! ✨
