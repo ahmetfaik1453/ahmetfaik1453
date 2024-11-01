@@ -48,19 +48,19 @@
 
 ### [TradingView-app](https://github.com/ahmetfaik1453/TradingView-app)
 A Python-based application that integrates with TradingView, allowing for advanced trading analysis and strategy development.
-<img src="https://media.giphy.com/media/58bVMncULfWf6B7SWy/giphy.gif" alt="TradingView GIF" class="gif" style="width: 100%; height: auto;">
+<img src="https://media.giphy.com/media/58bVMncULfWf6B7SWy/giphy.gif" alt="TradingView GIF" style="width: 100%; height: auto;">
 
 ### [Financial-Algorithms](https://github.com/ahmetfaik1453/Financial-Algorithms)
 A repository containing various financial algorithms for algorithmic trading and market analysis.
-<img src="https://media.giphy.com/media/JqKOU2VAUx9bt9K4PK/giphy.gif" alt="Financial Algorithms GIF" class="gif" style="width: 100%; height: auto;">
+<img src="https://media.giphy.com/media/JqKOU2VAUx9bt9K4PK/giphy.gif" alt="Financial Algorithms GIF" style="width: 100%; height: auto;">
 
 ### [Crypto-Portfolio-Tracker](https://github.com/ahmetfaik1453/Crypto-Portfolio-Tracker)
 A tool for tracking cryptocurrency investments with real-time price updates.
-<img src="https://media.giphy.com/media/qmMGDbod3UOnYNgg2O/giphy.gif" alt="Crypto Portfolio Tracker GIF" class="gif" style="width: 100%; height: auto;">
+<img src="https://media.giphy.com/media/qmMGDbod3UOnYNgg2O/giphy.gif" alt="Crypto Portfolio Tracker GIF" style="width: 100%; height: auto;">
 
 ### [Machine-Learning-For-Trading](https://github.com/ahmetfaik1453/Machine-Learning-For-Trading)
 Exploring machine learning applications in trading, including predictive models for stock prices.
-<img src="https://media.giphy.com/media/0KQHJ6xghJqgOJ8zl1/giphy.gif" alt="Machine Learning for Trading GIF" class="gif" style="width: 100%; height: auto;">
+<img src="https://media.giphy.com/media/0KQHJ6xghJqgOJ8zl1/giphy.gif" alt="Machine Learning for Trading GIF" style="width: 100%; height: auto;">
 
 ### [Exploring Individual Variation in Turkish Heritage Speakers](https://github.com/FredericBlum/exploring-individual-variation-in-turkish-heritage-speakers-complex-linguistic-productions)
 A collaborative project analyzing linguistic data, reflecting my interest in data analysis and collaboration.
@@ -75,17 +75,15 @@ A collaborative project analyzing linguistic data, reflecting my interest in dat
 ![HTML/CSS](https://img.shields.io/badge/HTML%20%26%20CSS-Intermediate-lightgrey)
 ![SQL](https://img.shields.io/badge/SQL-Expert-orange)
 
-<style>
-.gif {
-    animation: infinite-play 1s steps(1) infinite;
-}
-
-@keyframes infinite-play {
-    0% { background-position: 0; }
-    100% { background-position: 100%; }
-}
-</style>
-
 ---
+
+<script>
+window.onload = function() {
+    var gifs = document.getElementsByTagName("img");
+    for (var i = 0; i < gifs.length; i++) {
+        gifs[i].src = gifs[i].src.replace(/\.gif/, '.gif?auto=play');
+    }
+}
+</script>
 
 ✨ **Feel free to explore my projects!** Don't hesitate to reach out for collaboration! ✨
