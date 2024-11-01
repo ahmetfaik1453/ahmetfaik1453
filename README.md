@@ -75,4 +75,6 @@ A collaborative project analyzing linguistic data, reflecting my interest in dat
 
 ---
 
+![Finance GIF](https://media.giphy.com/media/JqKOU2VAUx9bt9K4PK/giphy.gif)
+
 ✨ **Feel free to explore my projects!** Don't hesitate to reach out for collaboration! ✨
