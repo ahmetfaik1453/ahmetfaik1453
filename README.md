@@ -23,8 +23,17 @@
 
 ⚡ **Fun fact:** I enjoy experimenting with different trading strategies and continuously seek to learn and adapt to the ever-changing financial markets.
 
-## 🎉 Fun Fact GIF
-![Fintech Fun Fact](https://media.giphy.com/media/xUOwG91nYClYpOnQso/giphy.gif)
+## 📈 Fintech Trends
+![Fintech Animation](https://media.giphy.com/media/3o7btP0M4PSpMvRti0/giphy.gif)
+
+## 📊 Market Analysis
+![Market Graphics](https://media.giphy.com/media/3ohEjI0cUwI6Bv1OSz2/giphy.gif)
+
+## 📈 Trading Strategies
+![Trading Animation](https://media.giphy.com/media/3ohhwxzwW4R8FzR3HW/giphy.gif)
+
+## 📊 Data Analysis
+![Data Visualization](https://media.giphy.com/media/5C5iR8C58el4YkKSrT/giphy.gif)
 
 ## 🛠️ Skills
 
