@@ -59,12 +59,9 @@ A tool for tracking cryptocurrency investments with real-time price updates.
 ![Crypto GIF](https://media.giphy.com/media/qmMGDbod3UOnYNgg2O/giphy.gif?cid=790b7611db3z7cm15lq9ogyrp0oy051j0oxw7efg85ypc07g&ep=v1_stickers_search&rid=giphy.gif&ct=s)
 
 ### [Machine-Learning-For-Trading](https://github.com/ahmetfaik1453/Machine-Learning-For-Trading)
-Exploring machine learning applications in trading, including predictive models for stock prices.
-![Machine Learning GIF](https://media.giphy.com/media/0KQHJ6xghJqgOJ8zl1/giphy.gif?cid=790b7611a8d4smo45tcdxcv2z34j4kdtjeuohvni97j4kzef&ep=v1_stickers_search&rid=giphy.gif&ct=s)
+Exploring machine learning applications in trading, including predictive models for stock prices.[
+![Fintech GIF](https://media.giphy.com/media/K1GAJfvlJoY1Ba4DcF/giphy.gif)
 
-### [Exploring Individual Variation in Turkish Heritage Speakers](https://github.com/FredericBlum/exploring-individual-variation-in-turkish-heritage-speakers-complex-linguistic-productions)
-A collaborative project analyzing linguistic data, reflecting my interest in data analysis and collaboration.
-![Data Analysis GIF](https://media.giphy.com/media/JqKOU2VAUx9bt9K4PK/giphy.gif?cid=790b761189w7ximal89fx73wmk45qf6cjqimrnd8nepta9ft&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## 🛡️ Badges
 
