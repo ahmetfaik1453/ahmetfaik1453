@@ -48,17 +48,19 @@
 
 ### [TradingView-app](https://github.com/ahmetfaik1453/TradingView-app)
 A Python-based application that integrates with TradingView, allowing for advanced trading analysis and strategy development.
-![TradingView GIF](https://media.giphy.com/media/58bVMncULfWf6B7SWy/giphy.gif)
+<img src="https://media.giphy.com/media/58bVMncULfWf6B7SWy/giphy.gif" alt="TradingView GIF" style="width: 100%; height: auto;">
 
 ### [Financial-Algorithms](https://github.com/ahmetfaik1453/Financial-Algorithms)
 A repository containing various financial algorithms for algorithmic trading and market analysis.
+<img src="https://media.giphy.com/media/JqKOU2VAUx9bt9K4PK/giphy.gif" alt="Financial Algorithms GIF" style="width: 100%; height: auto;">
 
 ### [Crypto-Portfolio-Tracker](https://github.com/ahmetfaik1453/Crypto-Portfolio-Tracker)
 A tool for tracking cryptocurrency investments with real-time price updates.
-![Crypto Tracker GIF](https://media.giphy.com/media/qmMGDbod3UOnYNgg2O/giphy.gif)
+<img src="https://media.giphy.com/media/qmMGDbod3UOnYNgg2O/giphy.gif" alt="Crypto Portfolio Tracker GIF" style="width: 100%; height: auto;">
 
 ### [Machine-Learning-For-Trading](https://github.com/ahmetfaik1453/Machine-Learning-For-Trading)
 Exploring machine learning applications in trading, including predictive models for stock prices.
+<img src="https://media.giphy.com/media/0KQHJ6xghJqgOJ8zl1/giphy.gif" alt="Machine Learning for Trading GIF" style="width: 100%; height: auto;">
 
 ### [Exploring Individual Variation in Turkish Heritage Speakers](https://github.com/FredericBlum/exploring-individual-variation-in-turkish-heritage-speakers-complex-linguistic-productions)
 A collaborative project analyzing linguistic data, reflecting my interest in data analysis and collaboration.
@@ -74,7 +76,5 @@ A collaborative project analyzing linguistic data, reflecting my interest in dat
 ![SQL](https://img.shields.io/badge/SQL-Expert-orange)
 
 ---
-
-![Finance GIF](https://media.giphy.com/media/JqKOU2VAUx9bt9K4PK/giphy.gif)
 
 ✨ **Feel free to explore my projects!** Don't hesitate to reach out for collaboration! ✨
