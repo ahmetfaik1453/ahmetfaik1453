@@ -12,7 +12,7 @@
 - Financial technology solutions
 
 📫 **How to reach me:**
-- 🔗 [LinkedIn](www.linkedin.com/in/ahmet-faik-ozsoy)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ahmet-faik-ozsoy)
 - 🐦 [Twitter](https://x.com/home?lang=en)
 - 📸 [Instagram](https://www.instagram.com/ahmetfaikozsoy)
 - 💬 [Telegram](https://t.me/ahmetfaikozsoy)
